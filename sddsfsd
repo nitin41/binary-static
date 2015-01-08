@@ -1,0 +1,272 @@
+[33mcommit d8c62c4bfc984bd6973fe7788cc8044c7d3aff39[m
+Author: nitin41 <nitin@techacadium.com>
+Date:   Thu Jan 8 16:57:14 2015 +0530
+
+    New index file
+
+[33mcommit 73eca08097b57412d6c5958d029d90819ba0c14a[m
+Author: nitin41 <nitin@techacadium.com>
+Date:   Thu Jan 8 16:48:34 2015 +0530
+
+    This is new index file
+
+[33mcommit 3d578e4ea7adc638dc9bc317d353dfb3a094f20d[m
+Merge: d94664a afaae38
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Thu Jan 8 10:25:25 2015 +0800
+
+    Merge pull request #125 from binary-com/translations
+    
+    Translations
+
+[33mcommit afaae384fc539b85fa2b14b61184aea3a8e65d1a[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Thu Jan 8 10:22:53 2015 +0800
+
+    Latest translations
+
+[33mcommit 12c7f817dac2897e4f8fa0f4d0ac70f6abb2decf[m
+Merge: ee468e5 d94664a
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Thu Jan 8 09:34:37 2015 +0800
+
+    Merge remote-tracking branch 'origin/master' into translations
+
+[33mcommit ee468e5e9f11146ee60040db8fe9a4eac2eb16d1[m
+Author: Camila dos Santos Souza <camila@binary.com>
+Date:   Wed Jan 7 16:14:41 2015 +0100
+
+    Translated using Weblate (Portuguese)
+    
+    Currently translated at 98.0% (2579 of 2631 strings)
+
+[33mcommit d27b7b9830cfc4d9c819fb479e8002b65f0b05ae[m
+Author: Putri Kumala <putri@regentmarkets.com>
+Date:   Wed Jan 7 05:53:27 2015 +0100
+
+    Translated using Weblate (Indonesian)
+    
+    Currently translated at 100.0% (2631 of 2631 strings)
+
+[33mcommit 7d675d3e1b161ee6fc307b1127319bc906cc1ae3[m
+Author: olvn@weblate_13 <francaisatwork@gmail.com>
+Date:   Tue Jan 6 09:10:54 2015 +0100
+
+    Translated using Weblate (French)
+    
+    Currently translated at 99.2% (2612 of 2631 strings)
+
+[33mcommit c386bd0465381124dc12693a19ef048fead90d88[m
+Author: Kamelia Milcheva <kami@binary.com>
+Date:   Tue Jan 6 07:57:20 2015 +0100
+
+    Translated using Weblate (Indonesian)
+    
+    Currently translated at 99.5% (2619 of 2631 strings)
+
+[33mcommit ea483c8a99f3278e6d2811daa61a98c1092658b4[m
+Author: Freddy Hew <hewfreddy@gmail.com>
+Date:   Tue Jan 6 12:30:54 2015 +0100
+
+    Translated using Weblate (Simplified Chinese)
+    
+    Currently translated at 100.0% (2631 of 2631 strings)
+
+[33mcommit d94664a3205066c50e9df7df8002ec2538fbfdea[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 16:02:06 2015 +0800
+
+    Update cost rica image about us template
+
+[33mcommit 7ccd9cddf3c960579250550e3d5052d46a9f87f9[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 10:40:27 2015 +0800
+
+    Release v3.2.11
+
+[33mcommit 364c7d9ba208d8777aba52ec8c50c74e7c775eac[m
+Merge: 281ac1e fd76e88
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 10:38:51 2015 +0800
+
+    Merge pull request #124 from binary-com/translations
+    
+    Translations
+
+[33mcommit 4c750108976ad4db264c0026da6dc3331c2ccdfb[m
+Merge: 33e40b1 fd76e88
+Author: Weblate <noreply@weblate.org>
+Date:   Tue Jan 6 03:38:02 2015 +0100
+
+    Merge remote-tracking branch 'origin/translations' into translations
+
+[33mcommit 33e40b1e0658357b9bf993bbb9828d4f4d25ea50[m
+Author: Putri Kumala <putri@regentmarkets.com>
+Date:   Tue Jan 6 03:36:17 2015 +0100
+
+    Translated using Weblate (Indonesian)
+    
+    Currently translated at 99.9% (2631 of 2632 strings)
+
+[33mcommit fd76e88a1b83621a60f88218ae766caf61cfa5c7[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 10:37:44 2015 +0800
+
+    Latest translations
+
+[33mcommit 084880330d66debcc4ebb602fb7341436c61ae49[m
+Merge: a4bf484 281ac1e
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 10:32:13 2015 +0800
+
+    Merge remote-tracking branch 'origin/master' into translations
+
+[33mcommit 281ac1eb3f06eb1202ba278d8594f1b4511ecaf1[m
+Merge: 8329144 2ffe0f3
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 10:29:25 2015 +0800
+
+    Merge pull request #123 from raunakkathuria/master
+    
+    Static Optimization
+
+[33mcommit a4bf4840c4313c65954efcb449c9fe520b6f9801[m
+Author: olvn@weblate_13 <francaisatwork@gmail.com>
+Date:   Mon Jan 5 13:59:40 2015 +0100
+
+    Translated using Weblate (French)
+    
+    Currently translated at 99.2% (2611 of 2632 strings)
+
+[33mcommit 2ffe0f3224a8f3eacb2eb597724db13d3f96699e[m
+Merge: d840094 8329144
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 08:55:19 2015 +0800
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit d840094e5e1ccc49c1bbd4748cc8ca561be57fc6[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 08:44:11 2015 +0800
+
+    Compress some more svg
+
+[33mcommit 0dee5345bdf5fce345fac999e1e3d1bb9f50964d[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 08:43:51 2015 +0800
+
+    Compress some more png
+
+[33mcommit a53ba4720c3c545052bb5dcca78e1671ed942b78[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 08:36:38 2015 +0800
+
+    Compress payment_agent images
+
+[33mcommit 0dfaf10faecc90fc3ca503739818dd930880dfb8[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Tue Jan 6 08:18:42 2015 +0800
+
+    Minimize costa-rica and chart-screenshot png
+
+[33mcommit a30f524939d5ff1fb785b4dd68a008107df12357[m
+Author: Putri Kumala <putri@regentmarkets.com>
+Date:   Mon Jan 5 10:25:05 2015 +0100
+
+    Translated using Weblate (Indonesian)
+    
+    Currently translated at 100.0% (2632 of 2632 strings)
+
+[33mcommit 790151e9b3870e4d3cb59adadc03d8117950cf00[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 16:26:35 2015 +0800
+
+    Update mobile menu template for proper class
+
+[33mcommit 766545da70d91eaf504687cc6c0bca5dacb1fb2c[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 16:06:40 2015 +0800
+
+    Fix template error for main menu
+
+[33mcommit 8329144a4d049556658aa4919e61e28c522c572b[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 14:23:03 2015 +0800
+
+    Release v3.2.10
+
+[33mcommit 7c81278994c93655a9370f6e2efecd9f4f728657[m
+Merge: 3d4a0b7 8d90e1d
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 14:08:55 2015 +0800
+
+    Merge pull request #122 from binary-com/translations
+    
+    Translations
+
+[33mcommit 8d90e1de09945152890eb1576c0cb94a21f71ab2[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 14:06:51 2015 +0800
+
+    Latest translation
+
+[33mcommit 13f5df90359e2e2b4bcc01a254dd3ef60a8794ed[m
+Merge: 4ba619a 3d4a0b7
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 14:01:48 2015 +0800
+
+    Merge remote-tracking branch 'origin/master' into translations
+
+[33mcommit 3d4a0b771e137f9ab6e4956836c82ed617d80ccf[m
+Merge: e46c4ef 8d80c39
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 13:59:55 2015 +0800
+
+    Merge pull request #114 from junbon/junbon/tick-expiry-fx
+    
+    Junbon/tick expiry fx
+
+[33mcommit 533067432af534ec8a0cc3c8425f3cf467870f85[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 13:44:15 2015 +0800
+
+    Compress svg files
+
+[33mcommit 6b9f9be360edc54bfd9350ee72109d24cb9393f0[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 13:37:14 2015 +0800
+
+    Compress some more pngs
+
+[33mcommit a6063cc76ff338f9fcc6c57b7179e07bd3c3545e[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 13:29:35 2015 +0800
+
+    Compress png images
+
+[33mcommit b46e977d17aaf0763d0543664cb0d254076ae56b[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 13:24:08 2015 +0800
+
+    Compress logintrouble images
+
+[33mcommit 69e40a4debe25fef70666b2057b8e09fab41a5c5[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 13:23:06 2015 +0800
+
+    Compress svg images
+
+[33mcommit 5a4c87985371cca12f6047517d094fc8d78e1209[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 12:23:23 2015 +0800
+
+    Compress svg image
+
+[33mcommit 1fd9cfcc244176071d481e8435ddf44150e9ca4c[m
+Author: Raunak Kathuria <raunakkathuria@gmail.com>
+Date:   Mon Jan 5 12:06:10 2015 +0800
+
+    Remove hreflang as of now from head haml
+
+[33mcommit fcb8aa2d01348f94efc7e1f28891ca7fbc41cc0e[m
+Author: Raunak Kathuria <raunakkathuri
